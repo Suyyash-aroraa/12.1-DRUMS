@@ -70,6 +70,15 @@ img{
     box-shadow: 0 3px 4px 0 #DBEDf3;
     opacity: 50%;
 }
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #edf2f4;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 0 #ef233c;
+}
+
 @media (max-width: 500px) {
     .btnCarry{
         flex-direction: column;
